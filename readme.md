@@ -1,1 +1,1 @@
-Voici mon nouveau site : bettermotherfuckingwebsite 
+Voici mon nouveau site : https://nickbanner.github.io/bettermotherfuckingwebsite/
